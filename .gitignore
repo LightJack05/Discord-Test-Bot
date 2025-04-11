@@ -1,3 +1,4 @@
+authentication/credentials.hpp
 # Prerequisites
 *.d
 
